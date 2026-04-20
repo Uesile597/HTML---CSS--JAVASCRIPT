@@ -14,6 +14,7 @@ HTML5 | CSS3 (Grid, Flexbox) | JavaScript Vanilla | GSAP 3.12.2 + ScrollTrigger 
 
 ## Demo ao vivo
 https://uesile597.github.io/lande-page-fanta/
+Link do site: [https://fantaprojct.netlify.app/]
 
 ## Estrutura
 lande-page-fanta/
